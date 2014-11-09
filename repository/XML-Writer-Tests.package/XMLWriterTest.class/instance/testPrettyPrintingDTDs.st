@@ -39,4 +39,4 @@ testPrettyPrintingDTDs
     <!--notation-->
     <!NOTATION external SYSTEM "external.txt">
 ]>
-'.
+' withSqueakLineEndings.
