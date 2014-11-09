@@ -11,6 +11,6 @@ Metacello new
 
 "Run the Tode tests"
 TravisCIHarness
-  value: #( 'BaselineOfXMLPullParser' )
+  value: #( 'BaselineOfXMLWriter' )
   value: 'TravisCISuccess.txt' 
   value: 'TravisCIFailure.txt'.
