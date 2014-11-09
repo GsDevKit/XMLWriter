@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"externalIDWriter" : "monty 1/26/2014 01:56",
+		"isDoctypeWriter" : "monty 10/12/2014 21:12",
+		"publicID" : "JAAyer 7/27/2010 08:20",
+		"publicID:" : "JAAyer 7/27/2010 08:20",
+		"root" : "JAAyer 7/26/2010 14:52",
+		"root:" : "JAAyer 7/26/2010 14:52",
+		"systemID" : "JAAyer 7/27/2010 08:20",
+		"systemID:" : "JAAyer 7/27/2010 08:20",
+		"withInternalSubset:" : "JAAyer 11/8/2010 02:59",
+		"writeBody:" : "monty 10/12/2014 20:49",
+		"writeEmbeddedMarkupPrologue" : "monty 10/13/2014 00:51",
+		"writeEpilogue" : "monty 10/12/2014 20:15",
+		"writePrologue" : "monty 10/12/2014 20:16" } }

@@ -1,0 +1,3 @@
+writing markup
+attributeDeclaration
+	^ self pushNewMarkupWriter: XMLAttributeDeclarationWriter

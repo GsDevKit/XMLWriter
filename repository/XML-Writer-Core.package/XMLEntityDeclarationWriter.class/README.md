@@ -1,0 +1,1 @@
+Writes general and parameter ENTITY declarations.

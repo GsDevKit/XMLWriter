@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"writer:" : "JAAyer 10/15/2010 15:19" },
+	"instance" : {
+		"finishWriting" : "monty 10/5/2014 20:22",
+		"hasEmbeddedMarkup" : "monty 1/14/2014 00:18",
+		"hasEmbeddedMarkupWriters" : "monty 10/4/2014 04:21",
+		"isDoctypeWriter" : "monty 10/12/2014 21:11",
+		"isEmbedded" : "monty 1/13/2014 23:55",
+		"isTagWriter" : "monty 10/12/2014 21:11",
+		"isWriting" : "monty 1/13/2014 23:42",
+		"newMarkupBeingWritten" : "monty 1/16/2014 23:00",
+		"newMarkupWriterBeingPushed" : "monty 1/16/2014 23:00",
+		"omitIfCanonical:" : "monty 10/12/2014 20:14",
+		"omitIfCanonicalInDTD:" : "monty 10/12/2014 21:14",
+		"printOn:" : "JAAyer 7/21/2010 09:26",
+		"startWriting" : "monty 10/5/2014 15:43",
+		"write" : "monty 10/12/2014 19:23",
+		"writeBody" : "JAAyer 7/26/2010 12:12",
+		"writeEpilogue" : "JAAyer 6/20/2010 12:08",
+		"writePrologue" : "JAAyer 6/20/2010 12:08",
+		"writer" : "JAAyer 6/18/2010 22:05",
+		"writer:" : "JAAyer 10/15/2010 15:19" } }

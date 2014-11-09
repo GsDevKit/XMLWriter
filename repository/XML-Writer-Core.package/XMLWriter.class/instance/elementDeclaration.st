@@ -1,0 +1,3 @@
+writing markup
+elementDeclaration
+	^ self pushNewMarkupWriter: XMLElementDeclarationWriter

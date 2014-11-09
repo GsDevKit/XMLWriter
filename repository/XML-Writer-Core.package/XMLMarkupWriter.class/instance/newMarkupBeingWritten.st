@@ -1,0 +1,3 @@
+private
+newMarkupBeingWritten
+	self write

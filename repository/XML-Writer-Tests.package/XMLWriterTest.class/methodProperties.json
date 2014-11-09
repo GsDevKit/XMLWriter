@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAttributes" : "monty 10/6/2014 23:34",
+		"testCDataSections" : "monty 10/12/2014 22:55",
+		"testCanonicalDTDs" : "monty 10/12/2014 22:22",
+		"testCanonicalTags" : "monty 11/4/2014 13:00",
+		"testCanonicalXMLDeclarationsAndPIs" : "monty 10/12/2014 23:03",
+		"testContentEscaping" : "monty 11/4/2014 13:20",
+		"testEntityReference" : "monty 10/12/2014 07:45",
+		"testEntityValueEscaping" : "monty 2/9/2014 03:52",
+		"testPrettyPrintingDTDs" : "monty 10/12/2014 07:39",
+		"testPrettyPrintingElements" : "monty 10/12/2014 07:40",
+		"testSelfClosingTags" : "monty 10/12/2014 21:57",
+		"testSimpleExample" : "StephaneDucasse 2/17/2013 10:03",
+		"testSimpleExampleWithWriteWith" : "monty 10/26/2014 10:18",
+		"testStartingAndFinishing" : "monty 10/27/2014 10:39",
+		"testSystemAndPublicIDs" : "monty 2/9/2014 04:05",
+		"testXmlnsDeclarations" : "monty 10/12/2014 23:18" } }

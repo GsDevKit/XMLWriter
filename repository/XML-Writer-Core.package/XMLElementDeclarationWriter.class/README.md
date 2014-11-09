@@ -1,0 +1,1 @@
+Writes ELEMENT declarations. 

@@ -1,0 +1,24 @@
+{
+	"category" : "XML-Writer-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ContentEscapes",
+		"ContentStringEscapes",
+		"EntityValueEscapes" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"stream",
+		"markupWriterStack",
+		"currentIndentLevel",
+		"indentString",
+		"lineBreak",
+		"isCanonical",
+		"omitsLineBreaks",
+		"isEscaping",
+		"outputsSelfClosingTags" ],
+	"name" : "XMLWriter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

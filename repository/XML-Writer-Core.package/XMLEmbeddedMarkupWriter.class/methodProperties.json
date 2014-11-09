@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"embedBlock:" : "monty 1/14/2014 01:34",
+		"embedCollection:" : "JAAyer 7/26/2010 12:34",
+		"embedString:" : "monty 2/9/2014 04:30",
+		"embedValue:" : "monty 1/13/2014 23:52",
+		"escapesEmbeddedStrings" : "monty 2/9/2014 04:19",
+		"hasEmbeddedMarkup" : "JAAyer 7/26/2010 14:55",
+		"hasEmbeddedMarkupWriters" : "JAAyer 7/26/2010 16:49",
+		"newMarkupBeingWritten" : "monty 1/16/2014 23:00",
+		"newMarkupWriterBeingPushed" : "monty 1/16/2014 23:00",
+		"prepareForEmbeddedMarkup" : "monty 1/14/2014 01:23",
+		"with:" : "monty 10/12/2014 19:46",
+		"writeBody" : "monty 10/12/2014 19:21",
+		"writeBody:" : "monty 10/5/2014 15:46",
+		"writeEmbeddedMarkupPrologue" : "monty 1/13/2014 23:27" } }

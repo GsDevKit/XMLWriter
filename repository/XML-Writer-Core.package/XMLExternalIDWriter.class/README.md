@@ -1,0 +1,1 @@
+This class writes public and system IDs of external entities.
