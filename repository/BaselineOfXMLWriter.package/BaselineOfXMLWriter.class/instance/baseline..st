@@ -4,13 +4,8 @@ baseline: spec
 	
 	spec for: #gemstone do: [ 
 		spec
-			project: 'OrderPreservingDictionary'
-			with: [ 
-				spec
-					className: 'ConfigurationOfOrderPreservingDictionary';
-					versionString: #stable;
-					loads: #('Core');
-					repository: 'http://smalltalkhub.com/mc/PharoExtras/OrderPreservingDictionary/main' ].
+			package: 'Collections-OrderPreservingDictionary'
+			with: [ spec file: 'Collections-OrderPreservingDictionary.g' ].
 				
 		spec
 			package: 'Collections-Support'
@@ -25,7 +20,7 @@ baseline: spec
 						requires: 'Collections-Support';
 						repository: 'http://seaside.gemtalksystems.com/ss/XMLSupport' ].
 					
-		spec package: 'XML-Writer-Core' with: [ spec requires: 'OrderPreservingDictionary' ].
+		spec package: 'XML-Writer-Core' with: [ spec requires: 'Collections-OrderPreservingDictionary' ].
 		spec package: 'XML-Writer-Tests' with: [ spec requires: 'XML-Writer-Core' ].
 		spec
 			group: 'default' with: #('Core' 'Tests');
