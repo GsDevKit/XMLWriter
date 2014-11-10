@@ -5,7 +5,10 @@ baseline: spec
 	spec for: #gemstone do: [ 
 		spec
 			package: 'Collections-OrderPreservingDictionary'
-			with: [ spec file: 'Collections-OrderPreservingDictionary.g' ].
+			with: [ 
+				spec 
+					file: 'Collections-OrderPreservingDictionary.g';
+					repository: 'github://GsDevKit/XMLParser/repository' ].
 				
 		spec
 			package: 'Collections-Support'
